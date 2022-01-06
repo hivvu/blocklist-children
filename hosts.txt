@@ -1,0 +1,9 @@
+# 
+# NoGoChildren | The Blocklist to filter sites
+# 
+# Last Update: 06 Jan 2022
+# 
+# ======================================================================================================
+
+instagram.com
+facebook.com
